@@ -1,0 +1,97 @@
+Algorithm,Array Size,Array Type,Preprocessing Time (ns),Query Time (ns)
+Precompute None,100,Random,0,74000
+Precompute None,300,Random,0,185100
+Precompute None,500,Random,0,41600
+Precompute None,1000,Random,0,77500
+Precompute None,3000,Random,0,120100
+Precompute None,5000,Random,0,112000
+Precompute None,10000,Random,0,209500
+Precompute None,12000,Random,0,499100
+Precompute None,100,Sorted,0,32500
+Precompute None,300,Sorted,0,335100
+Precompute None,500,Sorted,0,250600
+Precompute None,1000,Sorted,0,49000
+Precompute None,3000,Sorted,0,74000
+Precompute None,5000,Sorted,0,121000
+Precompute None,10000,Sorted,0,192200
+Precompute None,12000,Sorted,0,327200
+Precompute None,100,Reverse Sorted,0,139200
+Precompute None,300,Reverse Sorted,0,37400
+Precompute None,500,Reverse Sorted,0,39100
+Precompute None,1000,Reverse Sorted,0,69300
+Precompute None,3000,Reverse Sorted,0,105300
+Precompute None,5000,Reverse Sorted,0,220400
+Precompute None,10000,Reverse Sorted,0,210800
+Precompute None,12000,Reverse Sorted,0,325200
+Precompute All,100,Random,355200,27000
+Precompute All,300,Random,1470100,25700
+Precompute All,500,Random,1772600,28600
+Precompute All,1000,Random,3956700,26900
+Precompute All,3000,Random,24131200,40800
+Precompute All,5000,Random,69955000,36800
+Precompute All,10000,Random,296172900,61300
+Precompute All,12000,Random,315116000,33400
+Precompute All,100,Sorted,494700,39600
+Precompute All,300,Sorted,372600,30500
+Precompute All,500,Sorted,702100,70200
+Precompute All,1000,Sorted,2387900,58600
+Precompute All,3000,Sorted,22081200,67600
+Precompute All,5000,Sorted,56129700,31200
+Precompute All,10000,Sorted,278601100,88100
+Precompute All,12000,Sorted,332961800,32900
+Precompute All,100,Reverse Sorted,18100,156300
+Precompute All,300,Reverse Sorted,124600,31900
+Precompute All,500,Reverse Sorted,348100,76600
+Precompute All,1000,Reverse Sorted,1545500,44400
+Precompute All,3000,Reverse Sorted,20958100,27900
+Precompute All,5000,Reverse Sorted,60301900,29300
+Precompute All,10000,Reverse Sorted,360079200,32000
+Precompute All,12000,Reverse Sorted,275923700,31700
+Sparse Table,100,Random,32400,23500
+Sparse Table,300,Random,118000,29800
+Sparse Table,500,Random,201700,69500
+Sparse Table,1000,Random,486800,25000
+Sparse Table,3000,Random,1576600,29200
+Sparse Table,5000,Random,1811400,26900
+Sparse Table,10000,Random,116100,64200
+Sparse Table,12000,Random,13039700,29400
+Sparse Table,100,Sorted,7000,20200
+Sparse Table,300,Sorted,30000,42100
+Sparse Table,500,Sorted,57200,52300
+Sparse Table,1000,Sorted,199600,304900
+Sparse Table,3000,Sorted,438800,58700
+Sparse Table,5000,Sorted,1106100,69500
+Sparse Table,10000,Sorted,1425400,38700
+Sparse Table,12000,Sorted,2697700,155100
+Sparse Table,100,Reverse Sorted,11200,68200
+Sparse Table,300,Reverse Sorted,48200,35700
+Sparse Table,500,Reverse Sorted,60100,32700
+Sparse Table,1000,Reverse Sorted,154000,31600
+Sparse Table,3000,Reverse Sorted,542300,36200
+Sparse Table,5000,Reverse Sorted,866800,35800
+Sparse Table,10000,Reverse Sorted,1287500,79500
+Sparse Table,12000,Reverse Sorted,1585900,52300
+Blocking,100,Random,10400,37700
+Blocking,300,Random,24700,133800
+Blocking,500,Random,33100,46300
+Blocking,1000,Random,76500,33500
+Blocking,3000,Random,192700,54700
+Blocking,5000,Random,309800,32300
+Blocking,10000,Random,470900,47800
+Blocking,12000,Random,447100,37600
+Blocking,100,Sorted,5500,18700
+Blocking,300,Sorted,12700,37200
+Blocking,500,Sorted,21400,21200
+Blocking,1000,Sorted,39100,43100
+Blocking,3000,Sorted,163700,37800
+Blocking,5000,Sorted,249200,47000
+Blocking,10000,Sorted,476500,31200
+Blocking,12000,Sorted,497500,52400
+Blocking,100,Reverse Sorted,7000,17000
+Blocking,300,Reverse Sorted,29900,16300
+Blocking,500,Reverse Sorted,20500,15300
+Blocking,1000,Reverse Sorted,21900,17300
+Blocking,3000,Reverse Sorted,26400,20200
+Blocking,5000,Reverse Sorted,22600,18900
+Blocking,10000,Reverse Sorted,64800,26300
+Blocking,12000,Reverse Sorted,55900,24200
